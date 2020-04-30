@@ -1,0 +1,8 @@
+# gitignore for senior capstone
+
+__pycache__/
+
+# Environments
+.env
+.vscode
+
